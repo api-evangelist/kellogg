@@ -1,7 +1,12 @@
 aid: kellogg
-url: https://raw.githubusercontent.com/api-evangelist/kellogg/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/kellogg/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.kellogg.com
+description: >-
+  Kellogg Company is one of the world's leading producers of cereal and convenience
+  foods, with brands including Kellogg's, Special K, Frosted Flakes, Rice Krispies,
+  Pop-Tarts, Eggo, and Pringles.
