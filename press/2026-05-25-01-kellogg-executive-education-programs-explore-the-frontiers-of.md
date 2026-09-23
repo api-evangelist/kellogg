@@ -1,7 +1,9 @@
 ---
 title: Kellogg Executive Education programs explore the frontiers of ...
 url: https://www.kellogg.northwestern.edu/news/blog/2026/03/19/ai-executive-education-sawhney/
-date: '2026-05-25'
+published: '2026-03-19'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Kellogg" press release artificial intelligence'
 position: 1
 source: serpapi-google

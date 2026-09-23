@@ -1,7 +1,9 @@
 ---
 title: At the intersection of marketing, analytics and AI, Alex ...
 url: https://www.facebook.com/KelloggSchool/posts/at-the-intersection-of-marketing-analytics-and-ai-alex-schultz-offered-kellogg-s/1439951561505229/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kellogg" press release artificial intelligence'
 position: 4
 source: serpapi-google

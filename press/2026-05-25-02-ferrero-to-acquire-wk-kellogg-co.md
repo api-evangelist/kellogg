@@ -1,7 +1,9 @@
 ---
 title: FERRERO TO ACQUIRE WK KELLOGG CO
 url: https://www.prnewswire.com/news-releases/ferrero-to-acquire-wk-kellogg-co-302502422.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kellogg" press release artificial intelligence'
 position: 2
 source: serpapi-google

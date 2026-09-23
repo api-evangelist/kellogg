@@ -1,7 +1,9 @@
 ---
 title: Kellogg Adds New AI-Focused MBA Curriculum for Fall 2025
 url: https://www.stacyblackman.com/blog/kellogg-mba-ai-courses/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kellogg" press release artificial intelligence'
 position: 5
 source: serpapi-google
